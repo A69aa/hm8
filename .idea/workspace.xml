@@ -16,14 +16,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5467695d-1d1e-42bc-8192-e17e03430af2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/book/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parser_app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book_deteil.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/book_deteil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/book_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/confirm_delete_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/confirm_delete_book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/sites/requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/sites/requests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Anime" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
@@ -107,7 +106,38 @@
       <workItem from="1642093059746" duration="5977000" />
       <workItem from="1642176267788" duration="12570000" />
       <workItem from="1642434115476" duration="21451000" />
-      <workItem from="1642935877021" duration="16769000" />
+      <workItem from="1642935877021" duration="18680000" />
+      <workItem from="1643303507695" duration="6791000" />
+      <workItem from="1643316245580" duration="30000" />
+      <workItem from="1643316319590" duration="20000" />
+      <workItem from="1643316371912" duration="17000" />
+      <workItem from="1643316433883" duration="33000" />
+      <workItem from="1643316646656" duration="33000" />
+      <workItem from="1643316722221" duration="14000" />
+      <workItem from="1643316760995" duration="50000" />
+      <workItem from="1643316874701" duration="14000" />
+      <workItem from="1643316933529" duration="16000" />
+      <workItem from="1643316989953" duration="17000" />
+      <workItem from="1643317142221" duration="30000" />
+      <workItem from="1643317201836" duration="22000" />
+      <workItem from="1643319001606" duration="25000" />
+      <workItem from="1643319322869" duration="161000" />
+      <workItem from="1643385635463" duration="6884000" />
+      <workItem from="1643478353955" duration="5208000" />
+      <workItem from="1643488248138" duration="45000" />
+      <workItem from="1643488312044" duration="24000" />
+      <workItem from="1643488354595" duration="179000" />
+      <workItem from="1643488561928" duration="45000" />
+      <workItem from="1643488629288" duration="28000" />
+      <workItem from="1643488692404" duration="5263000" />
+      <workItem from="1643650278079" duration="1541000" />
+      <workItem from="1643731803158" duration="6747000" />
+      <workItem from="1643810090907" duration="11816000" />
+      <workItem from="1643823280809" duration="364000" />
+      <workItem from="1643823676984" duration="8776000" />
+      <workItem from="1643902845698" duration="4167000" />
+      <workItem from="1643910394277" duration="15000" />
+      <workItem from="1643914072864" duration="397000" />
     </task>
     <servers />
   </component>
@@ -127,10 +157,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1643314187008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1643314187008" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641835537932">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1641835537932" />
+    <state x="512" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643739470415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="512" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1643739470415" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1643910406463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1643910406463" />
     <state x="636" y="310" key="Github.ShareDialog" timestamp="1641834411445">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
